@@ -1,0 +1,16 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;  
+}
+body {
+  background: url('/src/img/geran-de-klerk-qzgN45hseN0-unsplash.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.App{
+  max-width:800px;
+  margin: auto;
+}

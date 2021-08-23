@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+
+.Top{
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 1%;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.reacticon{
+    height: 4rem;
+    width: 4rem;
+    animation: spin 7s linear infinite;
+}
+
+@keyframes spin {
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}

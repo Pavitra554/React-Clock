@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+
+.mainTime{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    background: rgba(48, 47, 47, 0.377);
+    backdrop-filter: blur( 5px );
+    -webkit-backdrop-filter: blur( 5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    padding: 10px;
+    margin: 8px;
+    transition: all 0.3s linear;
+}
+.mainTime:hover{
+    background: rgba(22, 22, 22, 0.445);
+    box-shadow: 4px 4px 12px #000000;
+}
+.currtime{
+    font-family: 'Oxygen', sans-serif;
+    font-size: 6rem;
+    font-weight: bold;
+    color: #ffffff;
+    text-shadow: 9px 9px 13px #000000;
+    margin-top: 30px;
+    transition: all 0.3s linear;
+}
+.date{
+    font-family: 'Oxygen', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    color: #ffffff;
+    margin-top: -20px;
+    text-shadow: 9px 9px 13px #000000;
+    transition: all 0.3s linear;
+}
+.day{
+    font-family: 'Parisienne', cursive;
+    color: #ffffff;
+    font-size: 8rem;
+    margin-top: -15px;
+    text-shadow: 9px 9px 13px #000000;
+    transition: all 0.3s linear;
+}
+.zone{
+    font-family: 'Oxygen', sans-serif;
+    color: #ffffff;
+    font-size: 1.5rem;
+    display: flex;
+    text-shadow: 9px 9px 13px #000000;
+    transition: all 0.3s linear;
+}
+
+.mainTime nav ul{
+    display: flex;
+    flex-direction: row;
+}
+.mainTime nav{
+    border-bottom: 1px solid rgba( 255, 255, 255, 0.18 );
+    position: relative;
+    margin-top: -11px;
+    margin-bottom: 10px;
+}
+.cities{
+    padding: 10px;
+    text-decoration: none;
+    color: #ffffff;
+    text-decoration: none;
+    outline: none;
+    /* padding: 5px; */
+    /* margin: 0px 5px; */
+    transition: all 0.2s linear;
+}
+
+.cities:hover{
+    background: rgba(85, 85, 85, 0.459);
+}
+.cities :visited{
+    background-color: rgb(255, 0, 0);
+    color: #000000;
+}

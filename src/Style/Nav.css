@@ -1,0 +1,43 @@
+.nav{
+    /* border: 2px solid red; */
+    margin:8px;
+    
+}
+.tlink{
+    text-decoration: none;
+}
+.timerlink{
+    text-decoration: none;
+}
+.Time{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+}
+.Time button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(48, 47, 47, 0.377);
+    backdrop-filter: blur( 5px );
+    -webkit-backdrop-filter: blur( 5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    padding: 5px;
+    margin: 0px 5px;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 1.5rem;
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.32s linear;
+}
+.Time button:hover{
+    background: rgba(29, 29, 29, 0.664);
+    box-shadow: 4px 4px 12px #000000;
+}
+.Time button:active{
+    box-shadow: none;
+}
+.Time button div{
+    margin:5px 10px;
+}
