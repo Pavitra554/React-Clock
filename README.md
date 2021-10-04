@@ -1,10 +1,53 @@
-# Getting Started with Create React App
+<p align="center">
+  <a href="https://nextjs.org">
+    <img src="https://www.seekpng.com/png/detail/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" height="128">
+    <h1 align="center">React.js</h1>
+  </a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+    <a aria-label="Vercel logo" href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
+  <a aria-label="Vercel logo" href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  </a>
+  <a aria-label="NPM version" href="https://www.npmjs.com/">
+    <img alt="" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  </a>
+  
+   <a aria-label="NPM version" href="https://www.w3schools.com/css/">
+    <img alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  </a>
+  
+</p>
 
-## Available Scripts
+
+# Project Name : React Clock
+
+This is a clock web app made with React.Js including different time zone and timers.
+
+# Technologies
+- React.js
+- JavaScript 
+- CSS
+- Visual Studio Code
+- Git & GitHub <br/>
+
+
+# How it look's 🤩
+  <img src="./Demo Screen Shots/New Tab - Google Chrome 8_23_2021 5_44_16 PM.png">
+  <img src="./Demo Screen Shots/New Tab - Google Chrome 8_23_2021 5_44_37 PM.png">
+    <img src="./Demo Screen Shots/New Tab - Google Chrome 8_23_2021 5_45_05 PM.png">
+  <img src="./Demo Screen Shots/New Tab - Google Chrome 8_23_2021 5_45_54 PM.png">
+  
+# Some important information about React
+
+ 
+Getting Started with Create React App
 
 In the project directory, you can run:
+### `npm install --save react-draft-wysiwyg draft-js`
 
 ### `npm start`
 
@@ -27,44 +70,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Thank-you for visiting 🤗😉😊
